@@ -1,4 +1,8 @@
 (* 
+ * pulled from https://gist.github.com/reyjrar/1769355
+ * and modified by 2bithacker to run the default session instead
+ * of just execing bash
+ *
  * New-iTerm-Window.scpt
  * 
  * Intended for use with QuickSilver
